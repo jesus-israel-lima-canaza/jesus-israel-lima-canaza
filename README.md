@@ -2,9 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/LCJesusI?color=1DA1F3&label=L.C.%20JESUS%20I.&logo=TWITTER&style=for-the-badge)](https://twitter.com/LCJesusI)
 
-<div class="media-content">
-      <img class="med-8x6 lazyautosizes lazyloaded" alt="Video y chat en computadora: animación GIF gif vector aplicación plana de ilustración isométrica" width="768" height="579" data-id="6430073" data-optimize-for-bots="true" data-srcset="https://cdn.dribbble.com/users/140227/screenshots/6430073/isometric-computer.gif 300w, https://cdn.dribbble.com/users/140227/screenshots/6430073/isometric-computer.gif 400w, https://cdn.dribbble.com/users/140227/screenshots/6430073/isometric-computer.gif 600w, https://cdn.dribbble.com/users/140227/screenshots/6430073/isometric-computer.gif 800w" data-src="https://cdn.dribbble.com/users/140227/screenshots/6430073/isometric-computer.gif" data-sizes="auto" skip_resize="true" srcset="https://cdn.dribbble.com/users/140227/screenshots/6430073/isometric-computer.gif 300w, https://cdn.dribbble.com/users/140227/screenshots/6430073/isometric-computer.gif 400w, https://cdn.dribbble.com/users/140227/screenshots/6430073/isometric-computer.gif 600w, https://cdn.dribbble.com/users/140227/screenshots/6430073/isometric-computer.gif 800w" src="https://cdn.dribbble.com/users/140227/screenshots/6430073/isometric-computer.gif" sizes="425px">
-  </div>
+[<img src="https://media.giphy.com/media/4no7ul3pa571e/giphy.gif">][website]
 
 ### 💻 Web Developer 🌱Father and Vegan
 
