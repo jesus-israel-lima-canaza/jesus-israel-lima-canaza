@@ -1,22 +1,10 @@
-### Hi there 👋
-
-<!--
-**jesus-israel-lima-canaza/jesus-israel-lima-canaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-### 🚀 Coding
 ### Hi [JESUS I.L.C][website] here 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/LCJesusI?color=1DA1F3&label=L.C.%20JESUS%20I.&logo=TWITTER&style=for-the-badge)](https://twitter.com/LCJesusI)
+
+<div class="media-content">
+      <img class="med-8x6 lazyautosizes lazyloaded" alt="Video y chat en computadora: animación GIF gif vector aplicación plana de ilustración isométrica" width="768" height="579" data-id="6430073" data-optimize-for-bots="true" data-srcset="https://cdn.dribbble.com/users/140227/screenshots/6430073/isometric-computer.gif 300w, https://cdn.dribbble.com/users/140227/screenshots/6430073/isometric-computer.gif 400w, https://cdn.dribbble.com/users/140227/screenshots/6430073/isometric-computer.gif 600w, https://cdn.dribbble.com/users/140227/screenshots/6430073/isometric-computer.gif 800w" data-src="https://cdn.dribbble.com/users/140227/screenshots/6430073/isometric-computer.gif" data-sizes="auto" skip_resize="true" srcset="https://cdn.dribbble.com/users/140227/screenshots/6430073/isometric-computer.gif 300w, https://cdn.dribbble.com/users/140227/screenshots/6430073/isometric-computer.gif 400w, https://cdn.dribbble.com/users/140227/screenshots/6430073/isometric-computer.gif 600w, https://cdn.dribbble.com/users/140227/screenshots/6430073/isometric-computer.gif 800w" src="https://cdn.dribbble.com/users/140227/screenshots/6430073/isometric-computer.gif" sizes="425px">
+  </div>
 
 ### 💻 Web Developer 🌱Father and Vegan
 
@@ -58,15 +46,16 @@ Here are some ideas to get you started:
 <br/>
 
 ---
-
+<!--
 ### 🎥 Last YT videos
 
 <!-- YT:START -->
-- [Como funciona JavaScript, event loop, call stack, task queue [Descarga PDF gratuita]](https://www.youtube.com/watch?v=kBVPVO0-icw)
+<!-- - [Como funciona JavaScript, event loop, call stack, task queue [Descarga PDF gratuita]](https://www.youtube.com/watch?v=kBVPVO0-icw)
 - [JavaScript vs TypeScript diferencias en código [Typescript 2021]](https://www.youtube.com/watch?v=4kB3A3RZCBY)
 - [Como usar una IA para ayudarte a programar GRATIS [2021]](https://www.youtube.com/watch?v=0edR-_2BEzQ)
 - [5 conceptos importantes en JavaScript que te ayudaran a conseguir trabajo](https://www.youtube.com/watch?v=bKGSgiX-yMk)
 - [Trucos y consejos para google chrome [sin usar extensiones]](https://www.youtube.com/watch?v=pgbux8gcmaU)
+-->
 <!-- YT:END -->
 
 ➡️ [More videos...][yt]
@@ -81,4 +70,3 @@ Here are some ideas to get you started:
 
 [website]: https://jesus-israel-lima-canaza.github.io/webjesus/#
 [yt]: https://www.youtube.com/channel/UC-BhTLr0fHaMwrSYODL6h_Q
-[blog]: /*-https://blog.naviscode.com/-*/
