@@ -4,8 +4,6 @@
 
 [<img src="https://media.giphy.com/media/4no7ul3pa571e/giphy.gif">][website]
 
-### 💻 Web Developer 🌱Father and Vegan
-
 - 🔭 I’m currently working on a [Courses or YT][website]
 - 🌱 I’m currently learning more about web dev
 - 👯 I’m looking to collaborate webinar,meetup...
