@@ -1,68 +1,55 @@
-### Hi [JESUS I.L.C][website] here 👋
+# Jesus Israel Lima Canaza
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/LCJesusI?color=1DA1F3&label=L.C.%20JESUS%20I.&logo=TWITTER&style=for-the-badge)](https://twitter.com/LCJesusI)
+Desarrollador enfocado en crear aplicaciones web practicas para negocios, gestion interna y automatizacion de procesos. Me gusta construir herramientas claras, utiles y faciles de usar: calculadoras comerciales, sistemas de inventario, plataformas de prestamos, gestion de gimnasios y soluciones contables.
 
-[<img src="https://media.giphy.com/media/4no7ul3pa571e/giphy.gif">][website]
+## En que estoy trabajando
 
-- 🔭 I’m currently working on a [Courses or YT][website]
-- 🌱 I’m currently learning more about web dev
-- 👯 I’m looking to collaborate webinar,meetup...
-- 💬 Ask me about to be a web dev
-- 😄 Pronouns: 'he/him'
-- ⚡ Fun fact: I love videogames but no time to play (thats fun)
+- Aplicaciones web con React, Vite y TypeScript.
+- Sistemas con autenticacion, roles de usuario y Firebase.
+- Dashboards administrativos para inventario, ventas, prestamos y control operativo.
+- Interfaces modernas para negocios pequenos y medianos.
+- Herramientas que ayudan a calcular precios, gestionar productos y organizar informacion.
 
----
+## Tecnologias que uso
 
-### 🚀 Coding
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][yt]
+## Proyectos destacados
 
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][yt]
+### [Sistema Gym](https://github.com/jesus-israel-lima-canaza/Sistema-Gym)
+Sistema de gestion para gimnasio con autenticacion, roles, miembros, planes, personal y panel administrativo. Construido con React, Vite, Firebase, TypeScript, Tailwind CSS y librerias para graficos y exportacion de datos.
 
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][yt]
+### [Calculadora Pro Lico](https://github.com/jesus-israel-lima-canaza/calculadora-pro-lico)
+Aplicacion para calculo de precios, gestion comercial y herramientas para negocios como botillerias o minimarkets. Usa React, Firebase, Recharts, codigo de barras y generacion/exportacion de informacion.
 
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][yt]
+### [BodegaSmart](https://github.com/jesus-israel-lima-canaza/BodegaSmart)
+Sistema web para gestion de inventario y prestamos de equipos en bodega, con Firebase y roles de acceso para administrador y encargado.
 
-[<img align="left" alt="Vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][yt]
+### [Sistema Contable](https://github.com/jesus-israel-lima-canaza/Sistema-Contable-)
+Aplicacion React + Vite orientada a contabilidad y visualizacion de datos con graficos usando Recharts.
 
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][yt]
+### [Business Calc Pro](https://github.com/jesus-israel-lima-canaza/business-calc-pro)
+Calculadora de precios de venta y generador de etiquetas para botilleria y minimarket.
 
-[<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />][yt]
+### [WebJesus](https://github.com/jesus-israel-lima-canaza/webjesus)
+Sitio personal publicado con GitHub Pages.
 
-[<img align="left" alt="Php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][yt]
+## Enfoque
 
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][yt]
+Me interesa resolver problemas reales con software simple de mantener. Mis proyectos suelen partir desde una necesidad concreta: administrar productos, calcular precios, controlar usuarios, organizar prestamos o visualizar informacion para tomar mejores decisiones.
 
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][yt]
+Actualmente estoy fortaleciendo mis proyectos con mejor documentacion, estructura, autenticacion, reglas de seguridad, experiencia de usuario y despliegue web.
 
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][yt]
+## Contacto
 
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][yt]
-
-<br/>
-
----
-<!--
-### 🎥 Last YT videos
-
-<!-- YT:START -->
-<!-- - [Como funciona JavaScript, event loop, call stack, task queue [Descarga PDF gratuita]](https://www.youtube.com/watch?v=kBVPVO0-icw)
-- [JavaScript vs TypeScript diferencias en código [Typescript 2021]](https://www.youtube.com/watch?v=4kB3A3RZCBY)
-- [Como usar una IA para ayudarte a programar GRATIS [2021]](https://www.youtube.com/watch?v=0edR-_2BEzQ)
-- [5 conceptos importantes en JavaScript que te ayudaran a conseguir trabajo](https://www.youtube.com/watch?v=bKGSgiX-yMk)
-- [Trucos y consejos para google chrome [sin usar extensiones]](https://www.youtube.com/watch?v=pgbux8gcmaU)
--->
-<!-- YT:END -->
-
-➡️ [More videos...][yt]
-
----
-
-### 🎧 Spotify Playing
-
-[<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="naviscode spotify playing" width="350" />]()
-
-<!-- LINKS -->
-
-[website]: https://jesus-israel-lima-canaza.github.io/webjesus/#
-[yt]: https://www.youtube.com/channel/UC-BhTLr0fHaMwrSYODL6h_Q
+- GitHub: [@jesus-israel-lima-canaza](https://github.com/jesus-israel-lima-canaza)
+- Sitio web: [jesus-israel-lima-canaza.github.io/webjesus](https://jesus-israel-lima-canaza.github.io/webjesus/)
